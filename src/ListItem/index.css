@@ -1,0 +1,7 @@
+.blueButton {
+  background-color: blue;
+}
+.darkButton {
+  background: transparent;
+  border: 1px solid white;
+}
